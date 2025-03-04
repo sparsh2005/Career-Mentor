@@ -2,8 +2,8 @@
 
 This project demonstrates a Career Mentor Chatbot that leverages a fine-tuned large language model (Mistral-7B) to provide career advice and answer career-related queries. We fine-tuned a gated base model (Mistral-7B) using LoRA (Low-Rank Adaptation) on a curated career Q&A dataset, and built a Flask backend to serve the model. **Our React-based frontend is still under development.**
 
-# Check out the model files here on Hugging Face:
-https://huggingface.co/sp4rsh/career_mentor_finetuned_new
+### Check out the model files here on Hugging Face:
+https://huggingface.co/sp4rsh/career_mentor_finetuned_new/tree/main
 
 ## Overview
 
